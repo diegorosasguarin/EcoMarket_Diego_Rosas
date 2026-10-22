@@ -16,7 +16,7 @@ EcoMarket/
 ├── img/
 │   ├── hero/             # Fondo e imágenes del banner principal
 │   ├── icons/            # Iconos vectoriales e imagen estática de ubicación (mapa)
-│   └── products/         # Catálogo de imágenes vectoriales de productos (p1.svg a p20.svg)
+│   └── products/         # Catálogo de imágenes vectoriales de productos (p1.jpeg a p20.jpeg)
 ├── views/
 │   ├── productos.html    # Vista B: Catálogo completo de 20 productos con filtros sticky
 │   ├── sobre-nosotros.html # Vista C: Historia de marca, principios y carrusel de testimonios
