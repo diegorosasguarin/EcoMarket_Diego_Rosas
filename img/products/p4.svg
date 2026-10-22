@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#1abc9c" rx="12"/>
+  <circle cx="200" cy="120" r="50" fill="#ffffff" opacity="0.2"/>
+  <path d="M200 90 C180 120 170 140 200 160 C230 140 220 120 200 90 Z" fill="#ffffff"/>
+  <text x="50%" y="230" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="bold" fill="#ffffff">Camiseta Algodón</text>
+  <text x="50%" y="260" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="12" fill="#ffffff" opacity="0.8">100% Ecológico &amp; Sostenible</text>
+</svg>
